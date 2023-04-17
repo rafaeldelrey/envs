@@ -1,0 +1,34 @@
+numpy
+pandas
+torch
+torchvision
+torchaudio
+# tensorflow
+scikit-learn
+
+# General
+seaborn
+plotly
+python-dotenv
+tqdm
+wandb
+fastapi
+flask
+boto3
+
+# NLP
+transformers
+tokenizers
+openai
+tiktoken
+langchain
+cohere
+fasttext
+gensim
+nltk
+spacy
+
+# Others
+google-search-results
+faiss-cpu
+

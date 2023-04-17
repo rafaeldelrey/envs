@@ -1,0 +1,11 @@
+name: ds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipywidgets
+  - pip
+  - pip:
+    - -r requirements_ds.txt
+    - -r requirements_dev.txt
